@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "openai": "^4.68.1",
+    "puppeteer": "^23.6.0"
+  }
+}
